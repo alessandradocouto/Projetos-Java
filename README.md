@@ -1,9 +1,9 @@
 ![wallpaper Java](images/wallpaper-java.png)
 
-# Projetos Java com Programação Orientada a Objeto
+# Projetos Java com Programação Orientada a Objeto 💥 
 Repositório com a finalidade de salvar trabalhos da faculdade e facilitar estudos posteriores.
 
-## Projeto 1 - Modificar Texto
+## Projeto 1 - Modificar Texto 📑:
 
 Nesse projeto vamos substituir palavras, adicionar Frases, analisar tempo de leitura do texto, procurar frase com determinada no texto e gerar frase aleatória.
 
@@ -46,4 +46,4 @@ Método que procura a palavra passada como parâmetro na frase e retorna as fras
 
 
 
-### Obrigada pela visita
+### Obrigada pela visita 🍾:
