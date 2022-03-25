@@ -5,7 +5,7 @@ Repositório com a finalidade de salvar trabalhos da faculdade e facilitar estud
 
 ## Projeto 1 - Modificar Texto
 
-Nesse projeto vamos substituir palavras, adicionar Frases, analisar tempo de leitura do texto e mais.
+Nesse projeto vamos substituir palavras, adicionar Frases, analisar tempo de leitura do texto, procurar frase com determinada no texto e gerar frase aleatória.
 
 <b>Foi usado nesse projeto:</b>
 
