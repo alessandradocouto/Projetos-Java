@@ -1,4 +1,4 @@
-![wallpaper Java](images/logo-java-graphic.png)
+![wallpaper Java](images/wallpaper-java.png)
 
 # Projetos-Java
 Repositório com a finalidade de salvar trabalhos da faculdade e facilitar estudos posteriores.
