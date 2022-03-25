@@ -85,14 +85,6 @@ class Texto extends Frase {
 	}
 	
 	
-	// outro jeito de fazer
-	// public Texto adicionaFrase(String linha) {
-	// 	super.setLinha(super.getLinha() + " " + linha);
-
-	// 	return this;
-	// }
-	
-	
 	public int getQuantidadePalavras() {
 		return super.listaPalavras().length;
 	}
@@ -120,8 +112,6 @@ class Texto extends Frase {
 		String novaLinha = "";
 		for(Frase fr: separaFrases()) {
 			if(fr != null) {
-				//System.out.println("-----------");
-				//System.out.println(fr);
 				if(fr.toString().contains(palProcurada)){
 					novaLinha += fr + ".";
 				}
