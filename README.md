@@ -7,7 +7,7 @@ Repositório com a finalidade de salvar trabalhos da faculdade e facilitar estud
 
 Nesse projeto vamos substituir palavras, adicionar Frases, analisar tempo de leitura do texto e mais.
 
-Foi usado nesse projeto:
+<b>Foi usado nesse projeto:</b>
 
 - this;
 - adicionar itens no array;
