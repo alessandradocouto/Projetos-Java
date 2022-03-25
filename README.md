@@ -1,6 +1,6 @@
 ![wallpaper Java](images/wallpaper-java.png)
 
-# Projetos Java com Programação Orientada a Objeto 💥 
+# Java com Programação Orientada a Objeto 💥 
 Repositório com a finalidade de salvar trabalhos da faculdade e facilitar estudos posteriores.
 
 ## Projeto 1 - Modificar Texto 📑:
@@ -29,7 +29,7 @@ Método que adiciona novas Frases no texto, usei o método 'get' para pegar o va
 		return getLinha();
 	}
 
-Método que procura a palavra passada como parâmetro na frase e retorna as frases que contêm a palavra procurada.
+Método que procura a palavra passada como parâmetro e retorna as frases que contêm a palavra procurada.
 
     public String getFrasesCom(String palProcurada) {
 		String novaLinha = "";
