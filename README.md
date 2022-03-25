@@ -1,6 +1,6 @@
 ![wallpaper Java](images/wallpaper-java.png)
 
-# Projetos-Java
+# Projetos-Java com Orientação ao Objeto
 Repositório com a finalidade de salvar trabalhos da faculdade e facilitar estudos posteriores.
 
 ## Projeto 1 - Modificar Texto
